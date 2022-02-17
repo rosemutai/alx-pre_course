@@ -1,1 +1,1 @@
-[1]: Dirctory designed for Git specifically for git assignments and projects
+[1]: Dirctory designed for Git specifically for git assignments and projects given
